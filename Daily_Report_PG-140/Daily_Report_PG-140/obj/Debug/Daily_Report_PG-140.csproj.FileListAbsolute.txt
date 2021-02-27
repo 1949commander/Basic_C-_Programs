@@ -1,0 +1,7 @@
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Daily_Report_PG-140\Daily_Report_PG-140\bin\Debug\Daily_Report_PG-140.exe.config
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Daily_Report_PG-140\Daily_Report_PG-140\bin\Debug\Daily_Report_PG-140.exe
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Daily_Report_PG-140\Daily_Report_PG-140\bin\Debug\Daily_Report_PG-140.pdb
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Daily_Report_PG-140\Daily_Report_PG-140\obj\Debug\Daily_Report_PG-140.csprojAssemblyReference.cache
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Daily_Report_PG-140\Daily_Report_PG-140\obj\Debug\Daily_Report_PG-140.csproj.CoreCompileInputs.cache
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Daily_Report_PG-140\Daily_Report_PG-140\obj\Debug\Daily_Report_PG-140.exe
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Daily_Report_PG-140\Daily_Report_PG-140\obj\Debug\Daily_Report_PG-140.pdb
