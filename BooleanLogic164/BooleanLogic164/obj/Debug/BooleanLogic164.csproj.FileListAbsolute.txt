@@ -1,0 +1,7 @@
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\BooleanLogic164\BooleanLogic164\bin\Debug\BooleanLogic164.exe.config
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\BooleanLogic164\BooleanLogic164\bin\Debug\BooleanLogic164.exe
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\BooleanLogic164\BooleanLogic164\bin\Debug\BooleanLogic164.pdb
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\BooleanLogic164\BooleanLogic164\obj\Debug\BooleanLogic164.csprojAssemblyReference.cache
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\BooleanLogic164\BooleanLogic164\obj\Debug\BooleanLogic164.csproj.CoreCompileInputs.cache
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\BooleanLogic164\BooleanLogic164\obj\Debug\BooleanLogic164.exe
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\BooleanLogic164\BooleanLogic164\obj\Debug\BooleanLogic164.pdb
