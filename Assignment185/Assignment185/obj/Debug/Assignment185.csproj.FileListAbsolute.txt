@@ -1,0 +1,7 @@
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Assignment185\Assignment185\bin\Debug\Assignment185.exe.config
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Assignment185\Assignment185\bin\Debug\Assignment185.exe
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Assignment185\Assignment185\bin\Debug\Assignment185.pdb
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Assignment185\Assignment185\obj\Debug\Assignment185.csprojAssemblyReference.cache
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Assignment185\Assignment185\obj\Debug\Assignment185.csproj.CoreCompileInputs.cache
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Assignment185\Assignment185\obj\Debug\Assignment185.exe
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Assignment185\Assignment185\obj\Debug\Assignment185.pdb
