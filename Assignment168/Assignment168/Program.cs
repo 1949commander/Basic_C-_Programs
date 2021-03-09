@@ -10,6 +10,7 @@ namespace Assignment168
     {
         static void Main(string[] args)
         {
+            // Ask Questions and save inputs
             Console.WriteLine("What is your age? ");
             int yourAge = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Have you ever had a DUI? True or False");
@@ -21,6 +22,7 @@ namespace Assignment168
             //Console.WriteLine(hadDui);
             //Console.WriteLine(numberSpeedTickets);
 
+            // Compare inputs with requirements
             bool yourAgeTrue = yourAge > 15;
             bool hadDuiTrue = hadDui != true;
             bool numberSpeedTicketsTrue = numberSpeedTickets <= 3;
@@ -30,6 +32,7 @@ namespace Assignment168
             //Console.WriteLine(hadDuiTrue);
             //Console.WriteLine(numberSpeedTicketsTrue);
 
+            // Write Answer to window.
             Console.WriteLine("Qualified? ");
             Console.WriteLine(qualifiedTrue);
 
