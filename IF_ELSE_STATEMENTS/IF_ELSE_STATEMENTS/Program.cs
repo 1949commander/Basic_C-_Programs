@@ -18,16 +18,16 @@ namespace IF_ELSE_STATEMENTS
             string result = num1 > num3 ? "num1 is greater than num3" : "num1 is not greater than num3";
             Console.WriteLine(result);
 
-            //if (num1 <= num2 && num4 >= num3)
-            //{
-            //    Console.WriteLine("The if statement ran. ");
-                
-            //}
-           
-            //else
-            //{
-            //    Console.WriteLine("The else statement ran.");
-            //}
+            if (num1 <= num2 && num4 >= num3)
+            {
+                Console.WriteLine("The if statement ran. ");
+
+            }
+
+            else
+            {
+                Console.WriteLine("The else statement ran.");
+            }
 
             Console.ReadLine();
         }
