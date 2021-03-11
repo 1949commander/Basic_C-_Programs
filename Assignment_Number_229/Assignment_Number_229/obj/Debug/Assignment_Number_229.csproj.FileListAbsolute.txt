@@ -1,0 +1,7 @@
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Assignment_Number_229\Assignment_Number_229\bin\Debug\Assignment_Number_229.exe.config
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Assignment_Number_229\Assignment_Number_229\bin\Debug\Assignment_Number_229.exe
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Assignment_Number_229\Assignment_Number_229\bin\Debug\Assignment_Number_229.pdb
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Assignment_Number_229\Assignment_Number_229\obj\Debug\Assignment_Number_229.csprojAssemblyReference.cache
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Assignment_Number_229\Assignment_Number_229\obj\Debug\Assignment_Number_229.csproj.CoreCompileInputs.cache
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Assignment_Number_229\Assignment_Number_229\obj\Debug\Assignment_Number_229.exe
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Assignment_Number_229\Assignment_Number_229\obj\Debug\Assignment_Number_229.pdb
