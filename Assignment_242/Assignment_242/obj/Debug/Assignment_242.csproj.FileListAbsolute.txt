@@ -1,0 +1,7 @@
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Assignment_242\Assignment_242\bin\Debug\Assignment_242.exe.config
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Assignment_242\Assignment_242\bin\Debug\Assignment_242.exe
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Assignment_242\Assignment_242\bin\Debug\Assignment_242.pdb
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Assignment_242\Assignment_242\obj\Debug\Assignment_242.csprojAssemblyReference.cache
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Assignment_242\Assignment_242\obj\Debug\Assignment_242.csproj.CoreCompileInputs.cache
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Assignment_242\Assignment_242\obj\Debug\Assignment_242.exe
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Assignment_242\Assignment_242\obj\Debug\Assignment_242.pdb
