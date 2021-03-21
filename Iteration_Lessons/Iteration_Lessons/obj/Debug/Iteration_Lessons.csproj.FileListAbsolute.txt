@@ -1,0 +1,7 @@
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Iteration_Lessons\Iteration_Lessons\bin\Debug\Iteration_Lessons.exe.config
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Iteration_Lessons\Iteration_Lessons\bin\Debug\Iteration_Lessons.exe
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Iteration_Lessons\Iteration_Lessons\bin\Debug\Iteration_Lessons.pdb
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Iteration_Lessons\Iteration_Lessons\obj\Debug\Iteration_Lessons.csprojAssemblyReference.cache
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Iteration_Lessons\Iteration_Lessons\obj\Debug\Iteration_Lessons.csproj.CoreCompileInputs.cache
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Iteration_Lessons\Iteration_Lessons\obj\Debug\Iteration_Lessons.exe
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Iteration_Lessons\Iteration_Lessons\obj\Debug\Iteration_Lessons.pdb
