@@ -75,22 +75,23 @@ namespace Assignment_251
             //Save User input into a variable
             string searchName = Console.ReadLine();
 
-            //Loop search
-            for (int m = 0; m < namesList.Count; m++)
-            {
-                if (namesList[m].ToLower() == searchName.ToLower())
-                {
-                    int idx = namesList.IndexOf(searchName);
-                    Console.WriteLine(idx);
-                    break;
-                }
+            bool isNamePresent = namesList.Contains(searchName);
 
-                else
+            //Loop search
+            if (isNamePresent == true)
+                for (int m = 0; m < namesList.Count; m++)
                 {
-                    Console.WriteLine("Name you entered is not in the list");
+                    if (namesList[m].ToLower() == searchName.ToLower())
+                    {
+                        Console.WriteLine(" Search Name {0}, Index of {1}", searchName, m);
+                        break;
+                    }
                 }
-                Console.WriteLine(m);
+            else
+                {
+                Console.WriteLine("Search Name is not in list", searchName);
             }
+
 
 
 
@@ -107,6 +108,21 @@ namespace Assignment_251
             // foreach ( var name in namesList)
             //    if (searchName = m
             //    { }
+
+
+
+            //if (namesList[m].ToLower() == searchName.ToLower())
+            //{
+            //    int idx = namesList.FindIndex(m);
+            //    Console.WriteLine(idx);
+            //    break;
+            //}
+
+            //else
+            //{
+            //    Console.WriteLine("Name you entered is not in the list");
+            //}
+            //Console.WriteLine(m);
 
             Console.ReadLine();
         }
