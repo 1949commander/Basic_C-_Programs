@@ -8,123 +8,144 @@ namespace Assignment_251
     {
         static void Main(string[] args)
         {
-            //// PART ONE
-            //// Loop and append
+            // PART ONE
+            // Loop and append
 
-            //string[] citiesArray = { "Boston", "New York", "Atlanta", "Dallas", "Omaha", "Seattle", "San Francisco", "Bosie" };
+            string[] citiesArray = { "Boston", "New York", "Atlanta", "Dallas", "Omaha", "Seattle", "San Francisco", "Bosie" };
 
-            //Console.WriteLine("Please enter a name: ");
-            //string nameAdd = Console.ReadLine();
-            //for (int i = 0; i < citiesArray.Length; i++)
-            //{
-            //    citiesArray[i] = citiesArray[i] + " " + nameAdd;
-            //}
-            //foreach (string i in citiesArray)
-            //{
-            //    Console.WriteLine(i);
-            //}
+            Console.WriteLine("Please enter a name: ");
+            string nameAdd = Console.ReadLine();
+            for (int i = 0; i < citiesArray.Length; i++)
+            {
+                citiesArray[i] = citiesArray[i] + " " + nameAdd;
+            }
+            foreach (string i in citiesArray)
+            {
+                Console.WriteLine(i);
+            }
 
-            //// PART TWO
-            //// Creating infinite loop 
-            //// using while loop 
+            // PART TWO
+            // Creating infinite loop 
+            // using while loop 
 
-            //int count = 0;
-            //while (true)
-            //{
-            //    // This statement will be printed  
-            //    // infinite times  
-            //    Console.WriteLine("I am stuck in a rut!!! but only this many times = {0}. ", count);
-            //    // Added Count
-            //    count++;
+            int count = 0;
+            while (true)
+            {
+                // This statement will be printed  
+                // infinite times  
+                Console.WriteLine("I am stuck in a rut!!! but only this many times = {0}. ", count);
+                // Added Count
+                count++;
 
-            //    if (count > 10)
-            //    {
-            //        break;
-            //    }
-            //}
+                if (count > 10)
+                {
+                    break;
+                }
+            }
 
-            //// PART THREE
-            //// Loop and Compare
+            // PART THREE
+            // Loop and Compare
 
-            //// Step one
-            //int j = 0;
+            // Step one
+            int j = 0;
 
-            //do
-            //{
-            //    Console.WriteLine("j = {0}", j);
-            //    j++;
+            do
+            {
+                Console.WriteLine("j = {0}", j);
+                j++;
 
-            //    if (j > 5)
-            //        break;
-            //}
+                if (j > 5)
+                    break;
+            }
 
-            //while (j < 10);
+            while (j < 10);
 
-            //// Step two
-            //for (int k = 0; k <= 12; k++)
-            //    Console.WriteLine("Value of k: {0}", k);
+            // Step two
+            for (int k = 0; k <= 12; k++)
+                Console.WriteLine("Value of k: {0}", k);
 
             // PART FOUR
             // STRING LOOP
             // Create List of Strings
             List<string> namesList = new List<string>() { "John", "Billy", "James", "Susan", "Mary", "Kathy", "Nitu" };
 
+            List<string> namesListLower = namesList.ConvertAll(d => d.ToLower());
+
             // Ask for user input
             Console.WriteLine("Please enter a name to search for: ");
 
             //Save User input into a variable
             string searchName = Console.ReadLine();
+            string searchNameLower = searchName.ToLower();
 
-            bool isNamePresent = namesList.Contains(searchName);
+            bool isNamePresent = namesListLower.Contains(searchNameLower);
 
             //Loop search
             if (isNamePresent == true)
-                for (int m = 0; m < namesList.Count; m++)
+                for (int m = 0; m < namesListLower.Count; m++)
                 {
-                    if (namesList[m].ToLower() == searchName.ToLower())
+                    if (namesListLower[m] == searchNameLower)
                     {
-                        Console.WriteLine(" Search Name {0}, Index of {1}", searchName, m);
+                        Console.WriteLine(" Search Name {0}, Index of {1}", searchNameLower, m);
                         break;
                     }
                 }
             else
-                {
-                Console.WriteLine("Search Name is not in list", searchName);
+            {
+                Console.WriteLine("Search Name is not in list", searchNameLower);
             }
 
+            Console.ReadLine();
 
+            // PART FIVE
+            // STRING LOOP
+            // Create List of Strings with Duplicates
+            List<string> namesList2 = new List<string>() { "John", "Billy", "James", "Susan", "Mary", "Kathy", "Nitu", "James", "John" };
 
+            List<string> namesListLower2 = namesList2.ConvertAll(d => d.ToLower());
 
+            // Ask for user input
+            Console.WriteLine("Please enter a name to search for: ");
 
-            //if (m.ToLower() == searchName.ToLower())
-            //{
-            //    int idx = namesList.IndexOf(nameof);
-            //    Console.WriteLine(idx);
-            //}
+            //Save User input into a variable
+            string searchName2 = Console.ReadLine();
+            string searchNameLower2 = searchName2.ToLower();
 
+            bool isNamePresent2 = namesListLower2.Contains(searchNameLower2);
 
-
-            //for (int m = 0; m < namesList.Count; m++)
-            // foreach ( var name in namesList)
-            //    if (searchName = m
-            //    { }
-
-
-
-            //if (namesList[m].ToLower() == searchName.ToLower())
-            //{
-            //    int idx = namesList.FindIndex(m);
-            //    Console.WriteLine(idx);
-            //    break;
-            //}
-
-            //else
-            //{
-            //    Console.WriteLine("Name you entered is not in the list");
-            //}
-            //Console.WriteLine(m);
+            //Loop search
+            if (isNamePresent2 == true)
+                for (int m2 = 0; m2 < namesListLower2.Count; m2++)
+                {
+                    if (namesListLower2[m2] == searchNameLower2)
+                    {
+                        Console.WriteLine(" Search Name {0}, Index of {1}", searchNameLower2, m2);
+                    }
+                }
+            else
+            {
+                Console.WriteLine("Search Name is not in list", searchNameLower2);
+            }
 
             Console.ReadLine();
+
+            // PART SIX
+            // STRING LOOP
+            // Create List of Strings with Duplicates
+            List<string> namesList3 = new List<string>() { "House", "Barn", "Fence", "Gate", "House", "Shed", "Garage", "Gate", "Drive" };
+            // set all stings to lower
+            List<string> namesListLower3 = namesList3.ConvertAll(d => d.ToLower());
+            var hashset = new HashSet<string>();
+            foreach(var name in namesListLower3)
+            {
+                if (!hashset.Add(name))
+                {
+                    Console.WriteLine("This word is a duplicate: {0}", name);
+                }
+
+            }
+            Console.ReadLine();
+
         }
     }
 }
