@@ -1,0 +1,7 @@
+C:\Users\breev\source\repos\ConsoleAppPartFour_254\ConsoleAppPartFour_254\bin\Debug\ConsoleAppPartFour_254.exe.config
+C:\Users\breev\source\repos\ConsoleAppPartFour_254\ConsoleAppPartFour_254\bin\Debug\ConsoleAppPartFour_254.exe
+C:\Users\breev\source\repos\ConsoleAppPartFour_254\ConsoleAppPartFour_254\bin\Debug\ConsoleAppPartFour_254.pdb
+C:\Users\breev\source\repos\ConsoleAppPartFour_254\ConsoleAppPartFour_254\obj\Debug\ConsoleAppPartFour_254.csprojAssemblyReference.cache
+C:\Users\breev\source\repos\ConsoleAppPartFour_254\ConsoleAppPartFour_254\obj\Debug\ConsoleAppPartFour_254.csproj.CoreCompileInputs.cache
+C:\Users\breev\source\repos\ConsoleAppPartFour_254\ConsoleAppPartFour_254\obj\Debug\ConsoleAppPartFour_254.exe
+C:\Users\breev\source\repos\ConsoleAppPartFour_254\ConsoleAppPartFour_254\obj\Debug\ConsoleAppPartFour_254.pdb
