@@ -1,0 +1,7 @@
+C:\Users\breev\source\repos\Step_263_sting_and_int\Step_263_sting_and_int\bin\Debug\Step_263_sting_and_int.exe.config
+C:\Users\breev\source\repos\Step_263_sting_and_int\Step_263_sting_and_int\bin\Debug\Step_263_sting_and_int.exe
+C:\Users\breev\source\repos\Step_263_sting_and_int\Step_263_sting_and_int\bin\Debug\Step_263_sting_and_int.pdb
+C:\Users\breev\source\repos\Step_263_sting_and_int\Step_263_sting_and_int\obj\Debug\Step_263_sting_and_int.csprojAssemblyReference.cache
+C:\Users\breev\source\repos\Step_263_sting_and_int\Step_263_sting_and_int\obj\Debug\Step_263_sting_and_int.csproj.CoreCompileInputs.cache
+C:\Users\breev\source\repos\Step_263_sting_and_int\Step_263_sting_and_int\obj\Debug\Step_263_sting_and_int.exe
+C:\Users\breev\source\repos\Step_263_sting_and_int\Step_263_sting_and_int\obj\Debug\Step_263_sting_and_int.pdb
