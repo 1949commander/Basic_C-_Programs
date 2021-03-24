@@ -138,6 +138,7 @@ namespace Assignment_251
             var hashset = new HashSet<string>();
             foreach(var name in namesListLower3)
             {
+                Console.WriteLine(name);
                 if (!hashset.Add(name))
                 {
                     Console.WriteLine("This word is a duplicate: {0}", name);
