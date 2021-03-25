@@ -1,0 +1,7 @@
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\TwentyOne_new\TwentyOne_new\bin\Debug\TwentyOne_new.exe.config
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\TwentyOne_new\TwentyOne_new\bin\Debug\TwentyOne_new.exe
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\TwentyOne_new\TwentyOne_new\bin\Debug\TwentyOne_new.pdb
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\TwentyOne_new\TwentyOne_new\obj\Debug\TwentyOne_new.csprojAssemblyReference.cache
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\TwentyOne_new\TwentyOne_new\obj\Debug\TwentyOne_new.csproj.CoreCompileInputs.cache
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\TwentyOne_new\TwentyOne_new\obj\Debug\TwentyOne_new.exe
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\TwentyOne_new\TwentyOne_new\obj\Debug\TwentyOne_new.pdb
