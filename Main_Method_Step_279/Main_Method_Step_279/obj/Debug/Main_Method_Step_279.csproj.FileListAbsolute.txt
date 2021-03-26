@@ -1,0 +1,7 @@
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Main_Method_Step_279\Main_Method_Step_279\bin\Debug\Main_Method_Step_279.exe.config
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Main_Method_Step_279\Main_Method_Step_279\bin\Debug\Main_Method_Step_279.exe
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Main_Method_Step_279\Main_Method_Step_279\bin\Debug\Main_Method_Step_279.pdb
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Main_Method_Step_279\Main_Method_Step_279\obj\Debug\Main_Method_Step_279.csprojAssemblyReference.cache
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Main_Method_Step_279\Main_Method_Step_279\obj\Debug\Main_Method_Step_279.csproj.CoreCompileInputs.cache
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Main_Method_Step_279\Main_Method_Step_279\obj\Debug\Main_Method_Step_279.exe
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Main_Method_Step_279\Main_Method_Step_279\obj\Debug\Main_Method_Step_279.pdb
