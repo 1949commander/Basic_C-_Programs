@@ -12,13 +12,13 @@ namespace methods_classes
 
             // Call Methods
             Math mathOne = new Math(userInput);
-            Math2 mathTwo = new Math2(userInput);
-            Math3 mathThree = new Math3(userInput);
+            //Math2 mathTwo = new Math2(userInput);
+            //Math3 mathThree = new Math3(userInput);
 
             // Print Results
             Console.WriteLine("Input value " + userInput + " Call Method Math, Results in " + mathOne.resultOne);
-            Console.WriteLine("Input value " + userInput + " Call Method Math2, Results in " + mathTwo.resultTwo);
-            Console.WriteLine("Input value " + userInput + " Call Method Math3, Results in " + mathThree.resultThree);
+            Console.WriteLine("Input value " + userInput + " Call Method Math, Results in " + mathOne.resultTwo);
+            Console.WriteLine("Input value " + userInput + " Call Method Math, Results in " + mathOne.resultThree);
             Console.ReadLine();
         }
     }
