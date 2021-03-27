@@ -15,15 +15,18 @@ namespace Main_Method_Step_279
             float v2 = 344.56f;
             string v3 = "45";
 
-            // Call Methods
-            MathOPS intAddInt = new MathOPS(v1, v2, v3);
-            MathOPS decSubInt = new MathOPS(v1, v2, v3);
-            MathOPS strMultInt = new MathOPS(v1, v2, v3);
+            // Instantiate
+            MathOPS myObj = new MathOPS();
+
+            // Call Method with different inputs
+            int resultOne = myObj.OverloadMath(v1);
+            int resultTwo = myObj.OverloadMath(v2);
+            int resultThree = myObj.OverloadMath(v3);
             
             // Print Results
-            Console.WriteLine("Results of intAddInt:" + intAddInt.V1);
-            Console.WriteLine("Results of decSubInt:" + decSubInt.V2);
-            Console.WriteLine("Results of strMultInt:" + strMultInt.V3);
+            Console.WriteLine("Results of intAddInt: {0}", resultOne);
+            Console.WriteLine("Results of intAddInt: {0}", resultTwo);
+            Console.WriteLine("Results of intAddInt: {0}", resultThree);
             Console.ReadLine();
         }
     }
