@@ -10,6 +10,15 @@ namespace Polymorphism_Step_306
     {
         static void Main(string[] args)
         {
+            // Instanciate Employee Class Object
+            Employee SampleEmployee = new Employee();
+            // Initiate New Sample Employee
+            SampleEmployee.firstName = "Sample";
+            SampleEmployee.lastName = "Student";
+            // Call Method
+            SampleEmployee.SayName();
+            // Call Interface Method
+            SampleEmployee.Quit();
         }
     }
 }

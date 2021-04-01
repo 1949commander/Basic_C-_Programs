@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Polymorphism_Step_306
 {
+    // Create Interface IQuittable
     interface IQuittable
     {
+        void Quit();
     }
 }
