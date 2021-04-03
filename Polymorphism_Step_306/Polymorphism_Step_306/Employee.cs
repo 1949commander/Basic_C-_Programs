@@ -13,12 +13,13 @@ namespace Polymorphism_Step_306
         public override void SayName() // Create SayName Method in Employee class.
         {
             Console.WriteLine(firstName + " " + lastName);
-            Console.ReadLine();
         }
 
         public void Quit() // Create Quit Method in Employee Class
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Quit Method");
+            Console.ReadLine();
         }
+
     }
 }

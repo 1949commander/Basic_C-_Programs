@@ -10,5 +10,6 @@ namespace Polymorphism_Step_306
     interface IQuittable
     {
         void Quit();
+        
     }
 }
