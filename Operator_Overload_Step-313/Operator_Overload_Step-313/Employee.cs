@@ -6,11 +6,14 @@ using System.Threading.Tasks;
 
 namespace Operator_Overload_Step_313
 {
+    // Create Employee Class and Inherit Person Class
     public class Employee : Person
     {
+        // Create Employee ID Field
         public int ID
         { get; set; }
 
+        //Create == Operator Overload
         public static bool operator ==(Employee employee_one, Employee employee_two)
         {
             if (employee_one.ID == employee_two.ID)

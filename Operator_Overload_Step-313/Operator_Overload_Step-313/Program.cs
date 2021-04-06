@@ -10,23 +10,25 @@ namespace Operator_Overload_Step_313
     {
         static void Main(string[] args)
         {
+            // Create Employee One
             Employee employee_one = new Employee
             {
                 FirstName = "John",
                 LastName = "Smith",
                 ID = 1002
             };
-
+            // Create Employee One
             Employee employee_two = new Employee
             {
                 FirstName = "Mary",
                 LastName = "Jones",
                 ID = 1003
             };
-
+            // Print Employees
             Console.WriteLine(employee_one.FirstName + " " + employee_one.LastName + " " + employee_one.ID);
             Console.WriteLine(employee_two.FirstName + " " + employee_two.LastName + " " + employee_two.ID);
-            Console.WriteLine();
+            // Compare Employees and Print Result
+            Console.WriteLine("Are the employees equal? " + (employee_one == employee_two));
             Console.ReadLine();
         }
     }
