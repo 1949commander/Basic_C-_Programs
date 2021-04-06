@@ -1,0 +1,7 @@
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Parameters_Step-317\Parameters_Step-317\bin\Debug\Parameters_Step-317.exe.config
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Parameters_Step-317\Parameters_Step-317\bin\Debug\Parameters_Step-317.exe
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Parameters_Step-317\Parameters_Step-317\bin\Debug\Parameters_Step-317.pdb
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Parameters_Step-317\Parameters_Step-317\obj\Debug\Parameters_Step-317.csprojAssemblyReference.cache
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Parameters_Step-317\Parameters_Step-317\obj\Debug\Parameters_Step-317.csproj.CoreCompileInputs.cache
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Parameters_Step-317\Parameters_Step-317\obj\Debug\Parameters_Step-317.exe
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Parameters_Step-317\Parameters_Step-317\obj\Debug\Parameters_Step-317.pdb
