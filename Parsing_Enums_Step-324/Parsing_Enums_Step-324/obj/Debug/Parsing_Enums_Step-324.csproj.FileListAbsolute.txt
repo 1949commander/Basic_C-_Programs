@@ -1,0 +1,7 @@
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Parsing_Enums_Step-324\Parsing_Enums_Step-324\bin\Debug\Parsing_Enums_Step-324.exe.config
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Parsing_Enums_Step-324\Parsing_Enums_Step-324\bin\Debug\Parsing_Enums_Step-324.exe
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Parsing_Enums_Step-324\Parsing_Enums_Step-324\bin\Debug\Parsing_Enums_Step-324.pdb
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Parsing_Enums_Step-324\Parsing_Enums_Step-324\obj\Debug\Parsing_Enums_Step-324.csprojAssemblyReference.cache
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Parsing_Enums_Step-324\Parsing_Enums_Step-324\obj\Debug\Parsing_Enums_Step-324.csproj.CoreCompileInputs.cache
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Parsing_Enums_Step-324\Parsing_Enums_Step-324\obj\Debug\Parsing_Enums_Step-324.exe
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Parsing_Enums_Step-324\Parsing_Enums_Step-324\obj\Debug\Parsing_Enums_Step-324.pdb
