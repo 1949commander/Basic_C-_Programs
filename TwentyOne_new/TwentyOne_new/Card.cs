@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TwentyOne_new
 {
-    public class Card
+    public struct Card
     {
         public Suit Suit { get; set; }
         public Face Face { get; set; }
