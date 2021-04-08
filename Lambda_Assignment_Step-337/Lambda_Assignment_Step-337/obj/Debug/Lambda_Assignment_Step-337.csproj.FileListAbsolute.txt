@@ -1,0 +1,7 @@
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Lambda_Assignment_Step-337\Lambda_Assignment_Step-337\bin\Debug\Lambda_Assignment_Step-337.exe.config
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Lambda_Assignment_Step-337\Lambda_Assignment_Step-337\bin\Debug\Lambda_Assignment_Step-337.exe
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Lambda_Assignment_Step-337\Lambda_Assignment_Step-337\bin\Debug\Lambda_Assignment_Step-337.pdb
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Lambda_Assignment_Step-337\Lambda_Assignment_Step-337\obj\Debug\Lambda_Assignment_Step-337.csprojAssemblyReference.cache
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Lambda_Assignment_Step-337\Lambda_Assignment_Step-337\obj\Debug\Lambda_Assignment_Step-337.csproj.CoreCompileInputs.cache
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Lambda_Assignment_Step-337\Lambda_Assignment_Step-337\obj\Debug\Lambda_Assignment_Step-337.exe
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Lambda_Assignment_Step-337\Lambda_Assignment_Step-337\obj\Debug\Lambda_Assignment_Step-337.pdb
