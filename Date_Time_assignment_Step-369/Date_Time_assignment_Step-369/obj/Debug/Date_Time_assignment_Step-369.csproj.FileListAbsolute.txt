@@ -1,0 +1,7 @@
+C:\Users\breev\source\repos\Date_Time_assignment_Step-369\Date_Time_assignment_Step-369\bin\Debug\Date_Time_assignment_Step-369.exe.config
+C:\Users\breev\source\repos\Date_Time_assignment_Step-369\Date_Time_assignment_Step-369\bin\Debug\Date_Time_assignment_Step-369.exe
+C:\Users\breev\source\repos\Date_Time_assignment_Step-369\Date_Time_assignment_Step-369\bin\Debug\Date_Time_assignment_Step-369.pdb
+C:\Users\breev\source\repos\Date_Time_assignment_Step-369\Date_Time_assignment_Step-369\obj\Debug\Date_Time_assignment_Step-369.csprojAssemblyReference.cache
+C:\Users\breev\source\repos\Date_Time_assignment_Step-369\Date_Time_assignment_Step-369\obj\Debug\Date_Time_assignment_Step-369.csproj.CoreCompileInputs.cache
+C:\Users\breev\source\repos\Date_Time_assignment_Step-369\Date_Time_assignment_Step-369\obj\Debug\Date_Time_assignment_Step-369.exe
+C:\Users\breev\source\repos\Date_Time_assignment_Step-369\Date_Time_assignment_Step-369\obj\Debug\Date_Time_assignment_Step-369.pdb
