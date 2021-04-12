@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Casino.Interfaces;
 
-namespace TwentyOne_new
+namespace Casino.TwentyOne_new
 {
     public class TwentyOneGame : Game, IWalkAway
     {

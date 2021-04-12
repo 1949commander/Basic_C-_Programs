@@ -5,3 +5,6 @@ C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\TwentyOne_new\TwentyOne_new\ob
 C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\TwentyOne_new\TwentyOne_new\obj\Debug\TwentyOne_new.csproj.CoreCompileInputs.cache
 C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\TwentyOne_new\TwentyOne_new\obj\Debug\TwentyOne_new.exe
 C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\TwentyOne_new\TwentyOne_new\obj\Debug\TwentyOne_new.pdb
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\TwentyOne_new\TwentyOne_new\bin\Debug\Casino.dll
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\TwentyOne_new\TwentyOne_new\bin\Debug\Casino.pdb
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\TwentyOne_new\TwentyOne_new\obj\Debug\TwentyOne_new.csproj.CopyComplete

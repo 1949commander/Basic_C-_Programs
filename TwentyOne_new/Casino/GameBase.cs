@@ -1,4 +1,4 @@
-﻿namespace TwentyOne_new
+﻿namespace Casino
 {
     public abstract class GameBase
     {
