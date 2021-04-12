@@ -30,6 +30,7 @@ namespace TwentyOne_new
             int aceCount = Hand.Count(x => x.Face == Face.Ace);
             int[] result = new int[aceCount + 1];
             int value = Hand.Sum(x => _cardValues[x.Face]);
+            result[0] = value;
             if (result.Length == 1) return result;
             for (int i = 1; i < result.Length; i++)
             {

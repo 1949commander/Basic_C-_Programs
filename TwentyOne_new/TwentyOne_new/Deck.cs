@@ -28,7 +28,7 @@ namespace TwentyOne_new
 
         
 
-        public void Shuffle(int times = 1)
+        public void Shuffle(int times = 3)
         {
 
             for (int i = 0; i < times; i++)
