@@ -1,0 +1,7 @@
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Input_Assignment_Step-365\Input_Assignment_Step-365\bin\Debug\Input_Assignment_Step-365.exe.config
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Input_Assignment_Step-365\Input_Assignment_Step-365\bin\Debug\Input_Assignment_Step-365.exe
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Input_Assignment_Step-365\Input_Assignment_Step-365\bin\Debug\Input_Assignment_Step-365.pdb
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Input_Assignment_Step-365\Input_Assignment_Step-365\obj\Debug\Input_Assignment_Step-365.csprojAssemblyReference.cache
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Input_Assignment_Step-365\Input_Assignment_Step-365\obj\Debug\Input_Assignment_Step-365.csproj.CoreCompileInputs.cache
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Input_Assignment_Step-365\Input_Assignment_Step-365\obj\Debug\Input_Assignment_Step-365.exe
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Input_Assignment_Step-365\Input_Assignment_Step-365\obj\Debug\Input_Assignment_Step-365.pdb
