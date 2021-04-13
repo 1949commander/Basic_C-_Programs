@@ -22,7 +22,12 @@ namespace TwentyOne_new
             if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
             {
                 Player player = new Player(playerName, bank);
-                Game game = new TwentyOneGame();
+                player.Id = Guid.NewGuid();
+                using (StreamWriter file = new StreamWriter(@"C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\TwentyOne_new\logs.txt", true))
+                {
+                    file.WriteLine(player.Id);
+                }
+                    Game game = new TwentyOneGame();
                 game += player;
                 player.IsActivelyPlaying = true;
                 while (player.IsActivelyPlaying && player.Balance > 0)

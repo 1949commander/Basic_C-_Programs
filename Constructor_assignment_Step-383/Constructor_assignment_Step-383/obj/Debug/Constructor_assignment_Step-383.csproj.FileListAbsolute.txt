@@ -1,0 +1,7 @@
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Constructor_assignment_Step-383\Constructor_assignment_Step-383\obj\Debug\Constructor_assignment_Step-383.csprojAssemblyReference.cache
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Constructor_assignment_Step-383\Constructor_assignment_Step-383\obj\Debug\Constructor_assignment_Step-383.csproj.CoreCompileInputs.cache
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Constructor_assignment_Step-383\Constructor_assignment_Step-383\bin\Debug\Constructor_assignment_Step-383.exe.config
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Constructor_assignment_Step-383\Constructor_assignment_Step-383\bin\Debug\Constructor_assignment_Step-383.exe
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Constructor_assignment_Step-383\Constructor_assignment_Step-383\bin\Debug\Constructor_assignment_Step-383.pdb
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Constructor_assignment_Step-383\Constructor_assignment_Step-383\obj\Debug\Constructor_assignment_Step-383.exe
+C:\Users\breev\OneDrive\Desktop\Basic_C#_Programs\Constructor_assignment_Step-383\Constructor_assignment_Step-383\obj\Debug\Constructor_assignment_Step-383.pdb
