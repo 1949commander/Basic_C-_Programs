@@ -1,0 +1,7 @@
+C:\Users\breev\source\repos\Try_Catch_Assignment_Step-388\Try_Catch_Assignment_Step-388\bin\Debug\Try_Catch_Assignment_Step-388.exe.config
+C:\Users\breev\source\repos\Try_Catch_Assignment_Step-388\Try_Catch_Assignment_Step-388\bin\Debug\Try_Catch_Assignment_Step-388.exe
+C:\Users\breev\source\repos\Try_Catch_Assignment_Step-388\Try_Catch_Assignment_Step-388\bin\Debug\Try_Catch_Assignment_Step-388.pdb
+C:\Users\breev\source\repos\Try_Catch_Assignment_Step-388\Try_Catch_Assignment_Step-388\obj\Debug\Try_Catch_Assignment_Step-388.csprojAssemblyReference.cache
+C:\Users\breev\source\repos\Try_Catch_Assignment_Step-388\Try_Catch_Assignment_Step-388\obj\Debug\Try_Catch_Assignment_Step-388.csproj.CoreCompileInputs.cache
+C:\Users\breev\source\repos\Try_Catch_Assignment_Step-388\Try_Catch_Assignment_Step-388\obj\Debug\Try_Catch_Assignment_Step-388.exe
+C:\Users\breev\source\repos\Try_Catch_Assignment_Step-388\Try_Catch_Assignment_Step-388\obj\Debug\Try_Catch_Assignment_Step-388.pdb
